@@ -1,5 +1,6 @@
-"# testGit" 
+# testGit
 
-test changes
 
-add a feature
+line code 1
+line code 2
+line code 3
